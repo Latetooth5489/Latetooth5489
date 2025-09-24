@@ -1,8 +1,3 @@
-<!-- Welcome animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Latetooth/Latetooth/main/welcome.gif" alt="Welcome" />
-</p>
-
 <h1 align="center">Hello, I'm Latetooth!</h1>
 <p align="center">I'm a sophomore majoring in Software Technology at Chongqing Three Gorges Vocational College.</p>
 
@@ -31,5 +26,5 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Latetooth&show_icons=true&theme=radical" alt="Latetooth's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Latetooth5489&show_icons=true&theme=radical" alt="Latetooth5489's GitHub Stats" />
 </p>
