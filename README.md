@@ -24,9 +24,10 @@
   <a href="https://space.bilibili.com/417832693">Bilibili Profile</a>
 </p>
 
+<h2 align="center"></h2>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,python,mysql,vue,html,css,nodejs,vscode,hbuilderx,idea,pycharm,clion,webstorm" />
+  <a href="https://skillicons.dev" align="center">
+    <img src="https://skillicons.dev/icons?i=java,c,python,mysql,vue,html,css,nodejs,vscode,idea,pycharm,clion,webstorm" />
   </a>
 </p>
 
