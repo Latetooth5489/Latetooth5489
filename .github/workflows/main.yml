@@ -1,0 +1,17 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # runs every 6 hours
+  workflow_dispatch: # allows manual triggering
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: cyprieng/github-breakout@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: Latetooth5489 # 替换为您的 GitHub 用户名
+          output_path: profile-snake-game.svg
