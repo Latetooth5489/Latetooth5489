@@ -1,5 +1,10 @@
+
 <h1 align="center">Hello, I'm Latetooth!</h1>
 <p align="center">I'm a sophomore majoring in Software Technology at Chongqing Three Gorges Vocational College.</p>
+
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=430&lines=I+love+coding!;I+love+learning+new+things!;I+love+building+projects!" alt="Typing SVG" /></a>
+</p>
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
 <p align="center">
@@ -25,7 +30,7 @@
 </p>
 
 <h2 align="center"></h2>
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev" align="center">
     <img src="https://skillicons.dev/icons?i=java,c,python,mysql,vue,html,css,nodejs,vscode,idea,pycharm,clion,webstorm" />
   </a>
