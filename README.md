@@ -24,6 +24,12 @@
   <a href="https://space.bilibili.com/417832693">Bilibili Profile</a>
 </p>
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,python,mysql,vue,html,css,nodejs,vscode,hbuilderx,idea,pycharm,clion,webstorm" />
+  </a>
+</p>
+
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Latetooth5489&show_icons=true&theme=radical" alt="Latetooth5489's GitHub Stats" />
