@@ -13,5 +13,5 @@ jobs:
       - uses: cyprieng/github-breakout@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          username: Latetooth5489 # 替换为您的 GitHub 用户名
+          github_username: Latetooth5489 # 替换为您的 GitHub 用户名
           output_path: profile-snake-game.svg
