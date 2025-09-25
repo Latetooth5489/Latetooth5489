@@ -15,3 +15,11 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           github_username: Latetooth5489 # 替换为您的 GitHub 用户名
           output_path: profile-snake-game.svg
+      # 新增的步骤：将生成的 SVG 文件提交回仓库
+      - name: Commit and Push SVG
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "github-actions@github.com"
+          git add profile-snake-game.svg
+          git commit -m "Generate profile snake game SVG" || echo "No changes to commit"
+          git push
